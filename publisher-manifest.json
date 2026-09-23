@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b950c817dbb0edf68defa64f",
+  "owner": "bjdqkn",
+  "repo": "page-908db968b07b7f03379e93f4",
+  "title": "肥猫云(FatCat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "908db968b07b7f03379e93f4",
+      "a": "肥猫云(FatCat)",
+      "b": "2027官方最新地址导航",
+      "entity": "肥猫云(FatCat)",
+      "brand": "肥猫云(FatCat)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "490c847459f316a00625e47fd984e01f9d0833a7698c5483be822f1f0b66bf3e",
+      "content": {
+        "primary_entity": "肥猫云(FatCat)",
+        "keyword1": "肥猫云(FatCat)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户提供多档订阅套餐。基础版每月 100GB 流量、支持 3 台设备，适合个人轻度使用；旗舰版每月 300GB、5 台设备，覆盖流媒体与游戏场景；团队版每月 1000GB、20 台设备，满足小型团队共享。所有套餐均提供极速流量与在线客服支持，用户可根据设备数量与用量选择合适方案。",
+          "AI_HERO_SUBTITLE": "多设备订阅 按需选套餐",
+          "AI_HERO_INTRO": "肥猫云(FatCat)提供海外网络加速订阅服务，按流量与设备数量划分基础版、旗舰版和团队版。用户可根据日常用量、在线设备数及流媒体需求挑选套餐，并通过客户端配置订阅使用。",
+          "AI_VISUAL_TITLE": "肥猫云套餐任你选",
+          "AI_HIGHLIGHT_1": "基础版 100GB 月流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "结合流量额度、在线设备数量和订阅周期，选择贴合使用习惯的方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月或按年订阅均可。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，多人共享时关注在线设备上限。",
+          "AI_FEATURE_TITLE_3": "按场景选版本",
+          "AI_FEATURE_TEXT_3": "旗舰版含流媒体解锁与游戏加速优化，团队版适合企业定制路由场景。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并参照客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付均有优惠。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先明确设备数量与流量需求，再完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "对照月流量、在线设备数和功能权益，选定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统对应的客户端版本与最低系统要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "安装客户端后，依照客户端文档添加订阅地址并启用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐轻松连接",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "肥猫云套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "主要差别在每月流量、同时在线设备数和线路类型。基础版 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB、20 台设备并含企业定制路由。",
+          "AI_FAQ_QUESTION_2": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_ANSWER_2": "先看常用设备数量，再看每月大致流量消耗。单人少量浏览可从基础版开始；多设备或需要流媒体、游戏加速可选旗舰版；团队共享或大流量需求适合团队版。",
+          "AI_FAQ_QUESTION_3": "订阅配置需要额外操作吗？",
+          "AI_FAQ_ANSWER_3": "不需要复杂操作。选定版本后，按对应客户端文档导入订阅信息即可。不同系统的客户端导入方式略有区别，参照各自说明完成配置。",
+          "AI_FAQ_QUESTION_4": "同时在线设备数如何计算？",
+          "AI_FAQ_ANSWER_4": "按同一时间保持连接的设备数量计算。基础版支持 3 台，旗舰版 5 台，团队版 20 台。超出数量时，部分设备需要断开后其他设备才能连接。",
+          "AI_FAQ_QUESTION_5": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "按年付价格更低。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比按月支付可节省部分费用，权益内容与对应月付版本一致。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fineartit.com",
+    "host": "fineartit.com"
+  },
+  "file_hashes": {
+    "index.html": "69f5fb65609e53fbbe9a7b7e6800da77f4db32d9908d3244ac0611fc42976bdb",
+    "sitemap.xml": "3a0faa4fcfe4435f84c1db35ce2b303d9bb054166f0ff09141208833a115e2b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7d425a2751d2a631c603f278cb3aa398d6d6ceca9efdcfaed97e078ad83b0591",
+    "robots.txt": "5c4160490900c82565d81e8d13f68296808b2ee58601356be75289eff6f134b7",
+    "04a3e7a901d5142cd696b0a3d3007d31.txt": "85fd0ea0a4a1617d29a3cb2100c32e48bf28fcae4fd2df5f0c061778de0142da"
+  },
+  "revision": "e06846e56a0778d74f594b67f0bdc207fb90b5974ae75be37769a0c6210402d5"
+}
